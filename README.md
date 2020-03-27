@@ -1,4 +1,6 @@
 # For the great escape
+``I’m caught between trying to live my life, and trying to run from it``
+
 ![](https://github.com/BlackTunami/mission_excape.github.io/blob/master/image.jpg)
 ## Daily log 2020
 [Jan 2020](https://github.com/BlackTunami/mission_escape.github.io/issues/3)  
