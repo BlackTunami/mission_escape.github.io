@@ -10,8 +10,8 @@
 [Apr 2020](https://github.com/BlackTunami/mission_escape.github.io/blob/master/2004.md )  
 [May 2020](https://github.com/BlackTunami/mission_escape.github.io/blob/master/2005.md )   
 [Jun 2020](https://github.com/BlackTunami/mission_escape.github.io/blob/master/2006.md )    
-[Jul 2020](https://github.com/BlackTunami/mission_escape.github.io/blob/master/2007.md )
-
+[Jul 2020](https://github.com/BlackTunami/mission_escape.github.io/blob/master/2007.md )  
+[Aug 2020](https://github.com/BlackTunami/mission_escape.github.io/blob/master/2008.md )  
 ## Daily log 2019
 [Sep 2019](https://github.com/BlackTunami/mission_escape.github.io/issues/1)  
 [Oct 2019](https://github.com/BlackTunami/mission_escape.github.io/issues/2)  
